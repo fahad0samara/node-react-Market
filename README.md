@@ -29,9 +29,7 @@ A modern, feature-rich e-commerce platform built with React and Node.js.
 ## Getting Started
 
 1. Clone the repository
-```bash
-git clone https://github.com/your-username/nexus-market.git
-```
+
 
 2. Install dependencies
 ```bash
@@ -66,6 +64,3 @@ NODE_ENV=development
 
 Contributions are welcome! Please read our contributing guidelines before submitting pull requests.
 
-## License
-
-MIT License - see LICENSE for details
